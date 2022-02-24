@@ -15,6 +15,11 @@ body {
   padding: 0.5em;
 }
 
+.image {
+  width: 80px;
+  object-fit: cover;
+}
+
 #cabecera small {
   color: steelblue;
 }
