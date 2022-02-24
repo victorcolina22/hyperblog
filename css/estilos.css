@@ -15,6 +15,10 @@ body {
   padding: 0.5em;
 }
 
+#cabecera small {
+  color: steelblue;
+}
+
 #container {
   width: 70%;
   padding: 1em;
