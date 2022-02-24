@@ -21,7 +21,6 @@ body {
 
 #container {
   width: 70%;
-  padding: 1em;
   text-align: left;
   border: 1px solid #ddd;
   margin: 30px auto;
@@ -34,3 +33,16 @@ body {
 #post {
   padding: 1em;
 }
+
+#footer {
+  background-color: brown;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  padding: 0.5em
+}
+
+.footer__text {
+  margin: 0
+}
+
