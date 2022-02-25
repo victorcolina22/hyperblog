@@ -1,1 +1,3 @@
 # hyperblog
+
+readme mejorado
